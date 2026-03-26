@@ -1,4 +1,4 @@
-#  Real-Time Infrastructure Monitoring & Alerting using Prometheus & Grafana on EC2
+#  Real-Time Infrastructure Monitoring & Alerting using Prometheus & Grafana
 
 ---
 

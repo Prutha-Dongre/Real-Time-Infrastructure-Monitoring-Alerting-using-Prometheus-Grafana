@@ -20,6 +20,11 @@ Previously, server health (CPU, memory, disk) was monitored manually using SSH. 
 
 ---
 
+## ➤ Architecture Diagram
+![Architecture](./pictures/architecture.png)
+
+---
+
 ## ➤ Architecture & Workflow
 
 1. Node Exporter runs on application servers and exposes system metrics  
